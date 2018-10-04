@@ -1,12 +1,14 @@
 
 # BEGIN WordPress
 <IfModule mod_rewrite.c>
-RewriteEngine On
-RewriteBase /wordpress/
-RewriteRule ^index\.php$ - [L]
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^(www.)?example.com$
+RewriteCond %{REQUEST_URI} !^/my_subdir/
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule . /wordpress/index.php [L]
+RewriteRule ^(.*)$ /my_subdir/$1
+RewriteCond %{HTTP_HOST} ^http://neurosciencecomputing.com$
+RewriteRule ^(/)?$ C:\Users\Dr. Strange\Desktop\github\foadsadrh.github.io/index.php [L] 
 </IfModule>
 
 # END WordPress
