@@ -1,0 +1,504 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPLMS EventOn v1.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-05-22 02:13+0430\n"
+"PO-Revision-Date: 2018-05-22 02:14+0430\n"
+"Last-Translator: vibethemes@gmail.com <vibethemes@gmail.com>\n"
+"Language-Team: VibeThemes <vibethemes@gmail.com>\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ wplms-eventon
+#: autoupdate/class-envato-protected-api.php:67
+msgid "Please enter your Envato Marketplace Username."
+msgstr "نام کاربری Envato Marketplace خود را وارد کنید."
+
+# @ wplms-eventon
+#: autoupdate/class-envato-protected-api.php:71
+msgid "Please enter your Envato Marketplace API Key."
+msgstr "لطفا کلید API خود در Envato Marketplace را وارد کنید."
+
+# @ wplms-eventon
+#: autoupdate/class-envato-protected-api.php:96
+msgid "The API \"set\" is a required parameter."
+msgstr "تنظیم API یک پارامتر ضروری است."
+
+# @ wplms-eventon
+#: autoupdate/class-envato-protected-api.php:167
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+msgstr "شناسه آیتم در فروشگاه Envato یک پارامتر ضروری است"
+
+# @ wplms-eventon
+#: autoupdate/class-plugin-update.php:376
+msgid "An Unexpected HTTP Error occurred during the API request."
+msgstr "یک خطای HTTP غیرمنتظره ای در حین درخواست API رخ داده است."
+
+# @ wplms-eventon
+#: autoupdate/class-plugin-update.php:376
+#: autoupdate/class-plugin-update.php:541
+msgid "Try again"
+msgstr "دوباره تلاش کنید"
+
+# @ wplms-eventon
+#: autoupdate/class-plugin-update.php:417
+msgid "An unknown error occurred"
+msgstr "یک خطای ناشناخته رخ داده است"
+
+# @ wplms-eventon
+#: autoupdate/class-plugin-update.php:453
+msgid ""
+"The plugin has been updated, but could not be reactivated. Please reactivate "
+"it manually."
+msgstr ""
+"افزونه بروز شده است، ولی نمیتواند مجددا فعال شود. لطفا بصورت دستی فعالش کنید."
+
+# @ wplms-eventon
+#: autoupdate/class-plugin-update.php:454
+msgid "Plugin reactivated successfully. "
+msgstr "افزونه باموفقیت مجددا فعال شد"
+
+# @ wplms-eventon
+#: autoupdate/class-plugin-update.php:476
+msgid " Plugin Updates"
+msgstr "بروز رسانی های افزونه"
+
+# @ wplms-eventon
+#: autoupdate/class-plugin-update.php:515
+msgid "Username: "
+msgstr "نام کاربری:"
+
+# @ wplms-eventon
+#: autoupdate/class-plugin-update.php:519
+msgid "Email: "
+msgstr "ایمیل:"
+
+# @ wplms-eventon
+#: autoupdate/class-plugin-update.php:525
+msgid "Key: "
+msgstr "کلید:"
+
+# @ wplms-eventon
+#: autoupdate/class-plugin-update.php:531
+msgid "<p>Your plugin update is <span style=\"color:green\">active</span></p>"
+msgstr ""
+"<p>بروزرسانی افزونه شما <span style=\"color:green\">فعال است</span></p>"
+
+# @ wplms-eventon
+#: autoupdate/class-plugin-update.php:535
+msgid ""
+"<p>Your input is <span style=\"color:red\">not valid</span>, automatic "
+"updates is <span style=\"color:red\">not active</span>.</p>"
+msgstr ""
+"<p>ورودی شما <span style=\"color:red\"> معتبر نمی باشد</span>, بروزرسانی "
+"اتوماتیک <span style=\"color:red\"> فعال نمی باشد</span>.</p>"
+
+# @ wplms-eventon
+#: autoupdate/class-plugin-update.php:536
+msgid "Edit Key"
+msgstr "ویرایش کلید"
+
+# @ wplms-eventon
+#: autoupdate/class-plugin-update.php:540
+msgid "<p>Unable to validate update activation.</p>"
+msgstr "<p>قادر به تائید اعتبار فعالسازی بروزرسانی نمیباشد</p>"
+
+# @ wplms-eventon
+#: autoupdate/class-plugin-update.php:546
+msgid "Add Key"
+msgstr "افزودن کلید"
+
+# @ wplms-eventon
+#: autoupdate/class-plugin-update.php:632
+msgid "User name"
+msgstr "نام کاربری"
+
+# @ wplms-eventon
+#: autoupdate/class-plugin-update.php:638
+msgid "Email"
+msgstr "ایمیل"
+
+# @ wplms-eventon
+#: autoupdate/class-plugin-update.php:647
+msgid "Themeforest User name ( for Auto-Updates )"
+msgstr "نام کاربری Themefores (برای بروزرسانی اتوماتیک)"
+
+# @ wplms-eventon
+#: includes/dashboard_widget.php:13
+msgid "Calendar for Dashboard"
+msgstr "تقویم برای داشبورد"
+
+# @ wplms-eventon
+#: includes/dashboard_widget.php:15
+msgid " DASHBOARD : Calendar Widget"
+msgstr "داشبورد : ابزارک تقویم"
+
+# @ wplms-eventon
+#: includes/dashboard_widget.php:60
+msgid "My Course Events"
+msgstr "رویدادهای دوره من"
+
+# @ wplms-eventon
+#: includes/dashboard_widget.php:70
+msgid "Title:"
+msgstr "عنوان :"
+
+# @ wplms-eventon
+#: includes/dashboard_widget.php:74
+msgid "Select Width"
+msgstr "انتخاب عرض"
+
+# @ wplms-eventon
+#: includes/dashboard_widget.php:76
+msgid "One Fourth"
+msgstr "یک چهارم"
+
+# @ wplms-eventon
+#: includes/dashboard_widget.php:77
+msgid "One Third"
+msgstr "یک سوم"
+
+# @ wplms-eventon
+#: includes/dashboard_widget.php:78
+msgid "One Half"
+msgstr "یک دوم"
+
+# @ wplms-eventon
+#: includes/dashboard_widget.php:79
+msgid "Two Third"
+msgstr "دو سوم"
+
+# @ wplms-eventon
+#: includes/dashboard_widget.php:80
+msgid "Three Fourth"
+msgstr "سه چهارم"
+
+# @ wplms-eventon
+#: includes/dashboard_widget.php:81
+msgid "Full"
+msgstr "کامل"
+
+# @ wplms-eventon
+#: includes/eventon-daily-view/includes/admin/class-admin_check.php:79
+#, php-format
+msgid "EventON %s is enabled but not effective. "
+msgstr "EventON% s فعال است اما موثر نیست."
+
+#: includes/front_end.php:46 includes/front_end.php:50 includes/init.php:251
+msgid "Events"
+msgstr "رویدادها"
+
+#: includes/front_end.php:47
+msgid "Add Course Events"
+msgstr "افزودن رویدادهای دوره ها"
+
+#: includes/front_end.php:53
+msgid "Existing events"
+msgstr "وقایع موجود"
+
+#: includes/front_end.php:56
+msgid "Save Events"
+msgstr "ذخیره رویداد"
+
+#: includes/front_end.php:97 includes/front_end.php:116
+msgid "Edit Event"
+msgstr "ویرایش رویداد"
+
+#: includes/front_end.php:98 includes/front_end.php:117
+msgid "Preview"
+msgstr "پیش نمایش"
+
+#: includes/front_end.php:99 includes/front_end.php:118
+msgid "Remove"
+msgstr "پاک کردن"
+
+#: includes/front_end.php:100 includes/front_end.php:119
+msgid "Delete"
+msgstr "حذف"
+
+#: includes/front_end.php:127
+msgid "Select existing event"
+msgstr "انتخاب رویداد موجود"
+
+#: includes/front_end.php:129
+msgid "Search an event"
+msgstr "جستجو یک رویداد"
+
+#: includes/front_end.php:131
+msgid "Set Event"
+msgstr "تنظیم رویداد"
+
+#: includes/front_end.php:135
+msgid "Create new Event"
+msgstr "ایجاد رویداد جدید"
+
+#: includes/front_end.php:137
+msgid "Event title"
+msgstr "عنوان رویداد"
+
+#: includes/front_end.php:140
+msgid "Create Event"
+msgstr "ایجاد رویداد"
+
+#: includes/front_end.php:148
+msgid "Add Event"
+msgstr "افزودن رویداد"
+
+# @ wplms-eventon
+#: includes/front_end.php:537 includes/front_end.php:571
+#: includes/migrate.php:42
+msgid "Security check Failed. Contact Administrator."
+msgstr "بررسی امنیتی شکست خورد. با مدیر سایت تماس بگیرید"
+
+#: includes/front_end.php:541 includes/front_end.php:575
+msgid "Invalid Course id, please edit a course"
+msgstr "شناسه دوره نامعتبر، لطفا یک دوره را ویرایش کنید"
+
+#: includes/front_end.php:547 includes/front_end.php:581
+msgid "Invalid Course Instructor"
+msgstr "استاد دوره نامعتبر"
+
+#: includes/front_end.php:680
+msgid "Settings Saved"
+msgstr "تنظیمات ذخیره شد"
+
+#: includes/front_end.php:688
+msgid "Event Type"
+msgstr "نوع رویداد"
+
+#: includes/front_end.php:695
+msgid "Select Category"
+msgstr "انتخاب دسته بندی"
+
+#: includes/front_end.php:701
+msgid "Event Location"
+msgstr "مکان رویداد"
+
+#: includes/front_end.php:708
+msgid "Select Location"
+msgstr "انتخاب مکان"
+
+#: includes/front_end.php:712
+msgid "Event Organiser"
+msgstr "سازمان دهنده رویداد"
+
+#: includes/front_end.php:719
+msgid "Select Event Organiser"
+msgstr "انتخاب سازمان دهنده رویداد"
+
+#: includes/front_end.php:784
+msgid "Event Sub-Title"
+msgstr "زیر عنوان رویداد"
+
+#: includes/front_end.php:785
+msgid "Event Sub- Title."
+msgstr "زیر عنوان رویداد."
+
+#: includes/front_end.php:792 includes/front_end.php:793
+msgid "All Day Event"
+msgstr "تمام رویداد های روزانه"
+
+#: includes/front_end.php:797 includes/front_end.php:822
+msgid "No"
+msgstr "خبر"
+
+#: includes/front_end.php:797 includes/front_end.php:822
+msgid "Yes"
+msgstr "بله"
+
+#: includes/front_end.php:801
+msgid "Event Start date"
+msgstr "تاریخ شروع رویداد"
+
+#: includes/front_end.php:802
+msgid "Start date for Event"
+msgstr "تاریخ شروع برای رویداد"
+
+#: includes/front_end.php:809
+msgid "Event End date"
+msgstr "تاریخ پایان رویداد"
+
+#: includes/front_end.php:810
+msgid "End date for Event"
+msgstr "تاریخ پایان برای رویداد"
+
+#: includes/front_end.php:817 includes/front_end.php:818
+msgid "Repeating Event"
+msgstr "تکرار رویداد"
+
+#: includes/front_end.php:827
+msgid "Repeat Frequency"
+msgstr "تناوب تکرار"
+
+#: includes/front_end.php:828
+msgid "Event repeats after every Day/Week/Month"
+msgstr "تکرارهای رویداد بعد از هر روز/هفته/ماه"
+
+#: includes/front_end.php:831
+msgid "Daily"
+msgstr "روزانه"
+
+#: includes/front_end.php:831
+msgid "Weekly"
+msgstr "هفتگی"
+
+#: includes/front_end.php:831
+msgid "Monthly"
+msgstr "ماهانه"
+
+#: includes/front_end.php:831
+msgid "Yearly"
+msgstr "سالیانه"
+
+#: includes/front_end.php:836
+msgid "Repeat Event By"
+msgstr "رویداد تکرار توسط"
+
+#: includes/front_end.php:837
+msgid "Repeat Event By days of month or days of week"
+msgstr "تکرار رویداد در روزهایی از ماه یا روزهایی از هفته"
+
+#: includes/front_end.php:840
+msgid "Day of Month"
+msgstr "روز از ماه"
+
+#: includes/front_end.php:840
+msgid "Day of Week"
+msgstr "روز هفته"
+
+#: includes/front_end.php:846
+msgid "Days of Week"
+msgstr "روز های هفته"
+
+#: includes/front_end.php:847
+msgid "Event repeats on following days of week"
+msgstr "تکرارهای رویدادها در روزهای هفته مقابل"
+
+#: includes/front_end.php:850
+msgid "Sunday"
+msgstr "یک‌شنبه"
+
+#: includes/front_end.php:850
+msgid "Monday"
+msgstr "دوشنبه"
+
+#: includes/front_end.php:850
+msgid "Tuesday"
+msgstr "سه‌شنبه"
+
+#: includes/front_end.php:850
+msgid "Wednesday"
+msgstr "چهارشنبه"
+
+#: includes/front_end.php:850
+msgid "Thursday"
+msgstr "پنج‌شنبه"
+
+#: includes/front_end.php:850
+msgid "Friday"
+msgstr "جمعه"
+
+#: includes/front_end.php:850
+msgid "Saturday"
+msgstr "شنبه"
+
+#: includes/front_end.php:855
+msgid "Repeat Gap"
+msgstr "تکرار وقفه"
+
+#: includes/front_end.php:856
+msgid "Event repeats and gaps for every Day/Week/Month"
+msgstr "تکرارها و وقفه‌های رویداد برای هر روز/هفته/ماه"
+
+#: includes/front_end.php:863
+msgid "Maximum Repeat"
+msgstr "حداکثر تکرار"
+
+#: includes/front_end.php:864
+msgid "Number of times event will repeat"
+msgstr "تعداد دفعاتی که رویداد تکرار خواهد شد"
+
+# @ wplms-eventon
+#: includes/init.php:69
+msgid "Events "
+msgstr " رویداد"
+
+# @ wplms-eventon
+#: includes/init.php:170
+msgid "WPLMS Courses"
+msgstr "دوره های WPLMS"
+
+# @ wplms-eventon
+#: includes/init.php:209
+msgid "Select a WPLMS Course"
+msgstr "انتخاب یک دوره WPLMS"
+
+# @ wplms-eventon
+#: includes/init.php:213
+msgid "Choose from published courses"
+msgstr "انتخاب از دوره‌های منتشر شده"
+
+#: includes/init.php:253
+msgid "Course Events slug"
+msgstr "نامک رویدادهای دوره"
+
+#: includes/init.php:317
+#, php-format
+msgid "Events in Course %s"
+msgstr "رویدادها در دوره %s"
+
+#: includes/init.php:322
+msgid "WPLMS Course Events Settings"
+msgstr "تنظیمات رویداد‌های دوره WPLMS"
+
+#: includes/init.php:326
+msgid "Course Events calendar display"
+msgstr "نمایش تقویم رویدادهای دوره"
+
+#: includes/init.php:331
+msgid "Default, Daily Calendar"
+msgstr "تقویم پیش فرض روزانه"
+
+#: includes/init.php:332
+msgid "List Calendar"
+msgstr "لیست تاریخ‌نگار"
+
+#: includes/init.php:334
+msgid "Course - Events display"
+msgstr "دوره - نمایش رویدادها"
+
+# @ wplms-eventon
+#: includes/migrate.php:144
+#, php-format
+msgid "Migrate all WPLMS Events to EventOn Events %s Start migration %s"
+msgstr "انتقال همه رویدادهای آموزشگاه به رویدادهای EventOn %s شروع انتقال %s"
+
+# @ wplms-eventon
+#: includes/migrate.php:158
+msgid ""
+"Migration Complete ! All WPLMS Events and settings have now been migrated to "
+"EventOn Events. Check WP Admin - Events section"
+msgstr ""
+"انتقال کامل شد. همه رویدادهای آموزشگاه و تنظیمات به رویدادهای EventOn منتقل "
+"شده اند. بخش رویدادها را در WP Admin چک کنید."
+
+# @ wplms-eventon
+#: includes/migrate.php:160
+msgid "Deactivate WPLMS Events Plugin"
+msgstr "غیر فعال کردن افزونه رویدادهای WPLMS"
+
+# @ wplms-eventon
+#: includes/migrate.php:167
+msgid "WPLMS Events deactivated. Create new events with EventOn plugin."
+msgstr ""
+"رویدادهای آموزشگاه غیرفعال شد. یک رویداد جدید با پلاگین EventOn ایجاد کنید."

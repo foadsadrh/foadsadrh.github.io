@@ -1,0 +1,1024 @@
+@font-face 
+{  	font-family: 'IRANSans'; 
+	src: url('fonts/IRANSans.ttf') format('truetype'),
+	url('/fonts/IRANSans.woff2') format('woff2'),
+	url('fonts/IRANSans.woff') format('woff');  
+	font-weight:normal !important;
+ }
+@font-face {  
+font-family: 'BYekan'; 
+ src:
+ url('fonts/BYekan.ttf') format('truetype'),
+ url('fonts/BYekan.eot?#') format('eot'),
+ url('fonts/BYekan.woff') format('woff');
+ font-weight:normal !important;
+}
+.countdown ,.team_member .member_info h3,.meta .date .month,.button{
+    letter-spacing: 0px !important;
+}
+body,h1, h2, h3, h4, h5, h6,p,button, input, select, textarea,.countdown,.tooltip-inner,.course_time{
+	font-family:IRANSans , Tahoma !important;
+	font-weight: normal !important;
+}
+.block.courseitem .star-rating+strong, .course_details li i {
+    float: left !important;
+}
+.testimonial-content .author img {
+    float: right;
+	margin-right:0 !important;
+    margin-left: 15px;
+}
+.button {
+    margin: 10px 0 10px 10px;
+}
+.block.side .block_media {
+    float: right;
+    margin: 0 0 15px 15px;
+}
+.widget_course_list li img {
+    float: right;
+	margin-right:0 !important;
+    margin-left: 10px;
+}
+.course-list1 .course-star-rating+strong {
+    float: right;
+}
+.course-list1 .students {
+    clear: right;
+}
+.link:after {
+	padding-left:0 !important;
+    padding-right: 5px;
+}
+.course-star-rating span {
+    font-size: 12px!important;
+    margin-right:0 !important;
+}
+#buddypress div.item-list-tabs ul li a span {
+    float: left !important;
+}
+.checkbox>input[type=checkbox]+label {
+    padding-right: 0 !important;
+}
+#buddypress .item-list-tabs .dir-search label:after {
+	right:auto !important;
+    left: 10px;
+}
+#buddypress .item-list-tabs .dir-search input[type=text] {
+    padding: 6px 8px 6px 30px !important;
+}
+#buddypress .item-list-tabs#subnav ul li.switch_view {
+	margin-left:0 !important;
+    margin-right: 10px;
+}
+#buddypress div.pagination .pag-count {
+    float: right;
+	margin-left:0 !important;
+    margin-right: 10px;
+}
+#buddypress div.pagination .pagination-links {
+    float: left;
+}
+#buddypress ul.item-list li .item-instructor .instructor_course .item-avatar {
+	margin-right:0 !important;
+    margin-left: 10px !important;
+}
+.radio>input[type=radio]+label {
+	margin-left: 0 !important;
+    padding-right: 0;
+}
+nav .menu li .menu-sidebar.column5 .widget {
+    float: right;
+}
+nav .menu li .menu-sidebar .widget {
+    border-left: none !important;
+	border-right: 1px solid rgba(255,255,255,.1);
+}
+.megadrop .menu-sidebar.column2 .widget:nth-child(2n+1), .megadrop .menu-sidebar.column3 .widget:nth-child(3n+1), .megadrop .menu-sidebar.column4 .widget:nth-child(4n+1), .megadrop .menu-sidebar.column5 .widget:nth-child(5n+1) {
+    border-right: none;
+}
+.block.courseitem .block_content img {
+	margin-left: 10px !important;
+	margin-right: 0 !important;
+}
+.course_instructor_widget .tip {
+    float: left;
+}
+.countdown+span+span>strong {
+	margin-right:0 !important;
+    margin-left: 24px;
+}
+.tagcloud a {
+    margin: 0 0 10px 10px !important;
+}
+.edit_course_content #course-category>li, .edit_course_content #course-linkage>li, .edit_course_content .wplms-taxonomy>li {
+    margin-right: 0 !important;
+}
+.create_course_content .button.hero:after, .edit_course_content .button.hero:after {
+    margin-left: 0 !important;
+    margin-right: 5px;
+}
+.tab-pane li img {
+	margin-right:0 !important;
+    margin-left: 10px;
+}
+.meta {
+    float: right;
+    border-left: 1px solid #EFEFEF;
+    border-right: none !important;
+}
+.blogpost .excerpt.thumb {
+    margin-right: 310px;
+    margin-left: 0 !important;
+}
+.cats ul {
+    float: right;
+}
+.cats ul li {
+    float: right;
+    margin-left: 5px;
+	margin-right: 0 !important;
+}
+.tabs-left>.nav-tabs {
+    float: right;
+	border-right:none !important;
+    border-left: 1px solid rgba(0,0,0,.08);
+}
+.tabs.tabs-left>.nav-tabs {
+	margin-right: 0 !important;
+    margin-left: 29px!important;
+}
+.tabs-left>.nav-tabs>li>a {	
+	margin-right: 0 !important;
+    margin-left: -1px;
+    border-radius: 4px 4px 0 0;
+}
+.tabs-left>.nav-tabs .active>a, .tabs-left>.nav-tabs .active>a:focus, .tabs-left>.nav-tabs .active>a:hover {
+    border-color: rgba(0,0,0,.08) rgba(0,0,0,.08) rgba(0,0,0,.08) transparent !important;
+}
+.tabs-left>.nav-tabs>li>a {
+    border-radius: 3px 4px 0 0;
+}
+#footerbottom #footer_social_icons .social li, #footerbottom .footermenu li {
+    float: right;
+    margin-right: 15px;
+	margin-left:0 !important;
+}
+.pagination {
+    display: inline-flex;
+}
+.indate {
+    margin: 0 0 0 10px;
+}
+.breadcrumbs li, .indate {
+    float: right;
+}
+.tags li {
+    float: right;
+	margin-right:0 !important;
+    margin-left: 10px;
+}
+.accordion-heading a {
+    padding: 12px 0 12px 20px;
+}
+.alignleft {
+    float: right;
+    margin: 0 0 15px 15px;
+}
+.woocommerce .shop_products .shop_countsorter .woocommerce-ordering {
+    float: left;
+}
+.woocommerce .shop_products .shop_countsorter .woocommerce-result-count {
+    padding: 8px 0 0 15px;
+}
+.woocommerce ul.products li.product .onsale {
+    right: auto !important;
+	left: 0 !important;
+    margin: -.5em 0 0 -.5em;
+}
+.woocommerce nav.woocommerce-pagination ul li {
+    float: right;
+}
+.woocommerce nav.woocommerce-pagination ul li {
+	margin-right:0 !important;
+    margin-left: 5px;
+}
+.widget .price_slider_amount .price_label {
+    margin-left:0 !important;
+    margin-right: 15px;
+}
+.widget .price_slider .ui-slider-range {
+    opacity: 0 !important;
+}
+.woocommerce div.product .connected_courses li a i {
+    float: right;
+    margin: 2px 0 0 10px;
+}
+.woocommerce div.product form.cart .button {
+    float: right;
+}
+.woocommerce div.product .product_meta span+span {
+	margin-left:0 !important;
+    margin-right: 10px;
+}
+.woocommerce ul.cart_list li img, .woocommerce ul.product_list_widget li img {
+    float: right;
+    margin: 2px 0 0 10px;
+}
+.woocommerce span.onsale {
+	left:auto !important;
+    right: -.5em;
+}
+.woocommerce .woocommerce-error:before, .woocommerce .woocommerce-info:before, .woocommerce .woocommerce-message:before {
+    left:auto !important;
+    right: 1.5em;
+}
+.woocommerce .woocommerce-error .button, .woocommerce .woocommerce-info .button, .woocommerce .woocommerce-message .button {
+    float: left;
+}
+.woocommerce .woocommerce-error, .woocommerce .woocommerce-info, .woocommerce .woocommerce-message {
+    padding: 1em 3.5em 1em 2em!important;
+}
+.price del {
+	margin-right:0!important;
+    margin-left: 5px;
+}
+.woocommerce .widget_shopping_cart .cart_list li a.remove, .woocommerce.widget_shopping_cart .cart_list li a.remove {
+    left:auto !important;
+    right: 0;
+}
+.woocommerce .widget_shopping_cart .cart_list li, .woocommerce.widget_shopping_cart .cart_list li {
+	padding-left:0 !important;
+    padding-right: 2em;
+}
+.widget .woocart .buttons .checkout, .widget .woocart .total .amount {
+    float: left;
+}
+.woocommerce table.shop_table {
+    margin: 0 0 24px -1px;
+    text-align: right;
+}
+.woocommerce-cart table.cart td.actions .coupon+.button {
+    float: left;
+}
+.woocommerce-cart table.cart td.actions .coupon .input-text {
+    float: right;
+    margin: 0 0 0 4px;
+}
+.woocommerce-cart .cart-collaterals .cart_totals table td {
+    text-align: left;
+}
+.woocommerce-checkout #payment ul.payment_methods li {
+    text-align: right;
+}
+.woocommerce-checkout #payment div.payment_box:before {
+	left:auto !important;
+    right: 0;
+    margin: -1em 2em 0 0;
+}
+.woocommerce form.checkout_coupon, .woocommerce form.login, .woocommerce form.register {
+    text-align: right;
+}
+#headertop li {
+    float: right;
+	margin-left:0 !important;
+    margin-right: 10px;
+	padding-left:0 !important;
+    padding-right: 10px;
+	border-left:none !important;
+    border-right: 1px solid #576972;
+}
+#vibe_bp_login #vbp-login-form label>a {
+    float: left;
+}
+#vibe_bp_login #vbp-login-form .checkbox label:before {
+    float: right;
+}
+#vibe_bp_login input[type=submit] {
+	margin-right:0 !important;
+    margin-left: 12px;
+}
+.logged-out #vibe_bp_login:after {
+	right:auto !important;
+    left: 90px;
+}
+.checkbox > input[type="checkbox"] + label::before {
+    margin-right: 0 !important;
+}
+.checkbox > input[type="checkbox"]:checked + label::after {
+    left:auto !important;
+    right: 1px;
+}
+.menu-sidebar.column5 .widget.buddypress.inside {
+    width: 100%;
+}
+.quiz_timeline li {
+    padding: 8px 30px 8px 0;
+    text-align: right;
+}
+.quiz_timeline li>span {
+	left:auto !important;
+    right: -10px;
+}
+.quiz_timeline .timeline_wrapper {
+	border-left:none !important;
+    border-right: 4px solid #232b2d;
+}
+.quiz_question span {
+    float: left;
+}
+.data_stats li {
+    float: right;
+}
+.data_stats {
+    right:auto!important;
+    left: 0;
+}
+#buddypress form#whats-new-form #whats-new-avatar {
+    margin: 10px 0 0 20px;
+}
+#buddypress form#whats-new-form #whats-new-content {
+    margin-left: 0 !important;
+    margin-right: 75px;
+}
+#buddypress ul.item-list li a span.time-since {
+	margin-left:0 !important;
+    margin-right: 15px;
+}
+.bp-primary-action, .bp-secondary-action {
+	margin-right:0 !important;
+    margin-left: 10px;
+}
+.bp-primary-action span, .bp-secondary-action span {
+	margin-left:0 !important;
+    margin-right: 5px;
+}
+#buddypress ul.item-list li a span {
+    float: left;
+}
+.quiz_results li i {
+    float: right;
+    margin: 0 0 0 5px !important;
+}
+.instructor_action_buttons li {
+    float: right;
+    border-left: 1px solid rgba(0,0,0,.08);
+	border-right:none !important;
+}
+.instructor_action_buttons {
+	border-left:none !important;
+    border-right: 1px solid rgba(0,0,0,.08);
+}
+.instructor_action_buttons li a span {
+    right:auto !important;
+    left: 0;
+}
+.instructor_line h3 i {
+    margin-left:0 !important;
+    margin-right: 10px;
+}
+.field_wrapper a.tip {
+	margin-left:0 !important;
+	margin-right: 15px;
+}
+.create_course_content #course_pricing .large_box, .create_course_content #course_pricing .mid_box, .create_course_content #course_pricing .small_box, .create_course_content #course_pricing .very_large_box, .create_course_content #course_settings .large_box, .create_course_content #course_settings .mid_box, .create_course_content #course_settings .small_box, .create_course_content #course_settings .very_large_box, .edit_course_content #course_pricing .large_box, .edit_course_content #course_pricing .mid_box, .edit_course_content #course_pricing .small_box, .edit_course_content #course_pricing .very_large_box, .edit_course_content #course_settings .large_box, .edit_course_content #course_settings .mid_box, .edit_course_content #course_settings .small_box, .edit_course_content #course_settings .very_large_box {
+	margin-right:0 !important;
+    margin-left: 10px;
+}
+.create_course_content #course_pricing h3 span, .create_course_content #course_pricing h5 span, .create_course_content #course_settings h3 span, .create_course_content #course_settings h5 span, .create_course_content #course_settings select, .edit_course_content #course_pricing h3 span, .edit_course_content #course_pricing h5 span, .edit_course_content #course_settings h3 span, .edit_course_content #course_settings h5 span, .edit_course_content #course_settings select {
+    float: left;
+}
+.create_course_content ul li .switch, .create_course_content ul li h3+select2, .edit_course_content ul li .switch, .edit_course_content ul li h3+select2 {
+    float: left;
+}
+.vibe_vibe_batches .field_wrapper h3 span:hover:after, .vibe_vibe_forum .field_wrapper h3 span:hover:after, .vibe_vibe_group .field_wrapper h3 span:hover:after, .vibe_vibe_product .field_wrapper h3 span:hover:after {
+	margin-left:0 !important;
+    margin-right: 5px;
+}
+.vibe_vibe_batches .hide_parent, .vibe_vibe_forum .hide_parent, .vibe_vibe_group .hide_parent, .vibe_vibe_product .hide_parent {
+	right:auto !important;
+    left: 0;
+}
+#course_creation_tabs li i {
+    margin-right: 0 !important;
+}
+select {
+    background-position: 1% 50% !important;
+}
+.page #comments ol.commentlist li .comment-body .comment-body-inner .comment-avatar, .single #comments ol.commentlist li .comment-body .comment-body-inner .comment-avatar {
+    float: right;
+}
+.page #comments ol.commentlist li .comment-body .comment-body-inner .comment-body-content, .single #comments ol.commentlist li .comment-body .comment-body-inner .comment-body-content {
+	margin-left:0 !important;
+    margin-right: 80px;
+}
+.page #comments ol.commentlist li .comment-body .comment-body-inner .comment-body-content:after, .single #comments ol.commentlist li .comment-body .comment-body-inner .comment-body-content:after {
+    border-color: transparent transparent transparent rgba(0,0,0,.08) !important;
+	left:auto !important;
+    right: -16px;
+}
+.link:hover:after {
+    content: "\f177" !important;
+}
+.course_curriculum .course_lesson span.time {
+    text-align: left;
+}
+.widget .price_slider_amount {
+    font-size: 11px;
+}
+select {
+    padding: 0 10px 0 24px;
+}
+.woocommerce ul.products li.product .price {
+    direction: rtl;
+}
+.select_download_options li {
+    float: right;
+    padding: 0 0 10px 10px;
+}
+.select_download_options li label {
+	padding-left:0 !important;
+    padding-right: 5px;
+}
+#buddypress div.message-search #messages_search {
+    padding: 5px 5px 5px 30px;
+}
+#buddypress div.message-search {
+    float: left;
+}
+#buddypress div.message-search #search-message-form:after {
+    right:auto !important;
+    left: 10px;
+}
+.countdown {
+    font-size: 43px;
+}
+.course_timeline li {
+    text-align: right;
+}
+.course_timeline li.unit_line {
+	margin-left:0 !important;
+    margin-right: 20px;
+	border-left:none !important;
+    border-right: 3px solid #3f4c4f;
+}
+.course_timeline li>span {
+    left:auto !important;
+    right: -7px;
+}
+#prev_unit:after {
+    content: "\e0f6";
+    float: right;
+	margin-right:0 !important;
+    margin-left: 5px;
+}
+#next_unit:after {
+    content: "\e172";
+    float: left;
+	margin-left:0 !important;
+    margin-right: 5px;
+}
+.unit_prevnext .col-md-6+.col-md-3 {
+    text-align: left!important;
+}
+#next_unit {
+    /*float: left;*/
+}
+.block.courseitem .block_content .star-rating+.pricing_course, .block.courseitem .block_content .star-rating+a, .block.courseitem .block_content .star-rating+strong {
+    float: left;
+}
+.block.courseitem .block_content span.subs {
+	margin-left:0 !important;
+    margin-right: 5px;
+}
+.course_reviews .review_breakup .rating_snapshot h2 {
+    font-size: 75px;
+    font-weight: 600 !important;
+}
+#item-body .certifications .flex-direction-nav .flex-next, #item-body .certifications .flex-direction-nav .flex-prev {
+    right:auto !important;
+    left: 0;
+}
+#item-body .certifications .flex-direction-nav .flex-prev {
+	right:auto !important;
+    left: 24px;
+}
+.icon-arrow-1-right:before {
+    content: "\e172";
+}
+.icon-arrow-1-left:before {
+    content: "\e0f6";
+}
+.ms-ctn .ms-trigger .ms-trigger-ico {
+    margin-left:0 !important;
+    margin-right: 8px;
+}
+.ms-ctn .ms-trigger {
+    right:auto !important;
+    left: 0;
+    border-right: 1px solid #CCC;
+}
+.ms-sel-ctn {
+    padding-right:0 !important;
+    padding-left: 25px;
+}
+.dash-task-list li.add_new > a {
+    float: right;
+}
+.dash-activities {
+	margin-left:0 !important;
+    margin-right: 5px;
+	border-left:none !important;
+    border-right: 1px solid #ddd;
+}
+.dash-activity strong:before {
+    left:auto !important;
+    right: -25px;
+}
+.notitle .news_block .small.button.add_news {
+    left: 92px;
+    right: auto !important;
+	padding: 3px 6px 2px 5px!important;
+}
+.news_block .flex-direction-nav a.flex-next {
+    right:auto !important;
+    left: 20px;
+}
+.news_block .flex-direction-nav a.flex-prev {
+    right:auto !important;
+    left: 42px;
+}
+.instructor-stats-courses li > ul {
+	margin-left:0 !important;
+    margin-right: 10px;
+}
+.instructor-stats-courses {
+	border-right:none !important;
+    border-left: 1px solid #EFEFEF;
+}
+.error-block {
+    text-align: right;
+	direction: rtl;
+}
+.vibe_carousel .flex-direction-nav a.flex-prev, .widget_carousel .flex-direction-nav a.flex-prev {
+    /*right:auto !important;
+    left: 24px!important;*/
+}
+.vibe_carousel .flex-direction-nav a.flex-next, .widget_carousel .flex-direction-nav a.flex-next {
+    /*right:auto !important;
+    left: 0!important;*/
+}
+/**/
+.congrats_badge:before, .congrats_certificate:before, .congrats_message:before {
+    left:auto !important;
+    right: 10px;
+}
+.congrats_badge .ajax-badge {
+    float: left;
+}
+.congrats_badge, .congrats_certificate, .congrats_message {
+    padding: 15px 48px 15px 15px;
+}
+.extra_buttons {
+    left: 36px;
+    right: auto !important;
+    display: inherit;
+}
+#unit.page_title .instructor, .unit_title .instructor {
+    text-align: left;
+    float: left;
+}
+#unit.page_title .instructor img, .unit_title .instructor img {
+    float: left;
+	margin-left:0 !important;
+    margin-right: 10px;
+}
+#unit.page_title ul li, .unit_title ul li {
+    /*float: right;*/
+	margin-right:0 !important;
+    margin-left: 10px;
+}
+#unit.page_title h1, .unit_title h1 {
+    margin: 10px 0 10px 20px;
+}
+.quiz_title .print_unit, .unit_title .print_unit {
+    padding: 0 0 0 10px;
+}
+.course_timeline li.done>span {
+    left:auto !important;
+    right: -13px;
+}
+.course_timeline li.done>span:before {
+    margin: 3px 5px 0 0;
+}
+.course_timeline li>a {
+    margin: 0 20px 0 10px;
+}
+.quiz_timeline li>a>span {
+    float: left;
+}
+.quiz_timeline li.done {
+	border-left:none !important;
+    border-right: 4px solid #70c989;
+	margin-left:0 !important;
+    margin-right: -4px;
+}
+.single-quiz .content .question {
+    padding-right:0 !important;
+    padding-left: 35px;
+}
+.quiz_timeline li.active {
+		border-left:none !important;
+    border-right: 4px solid #78c8ce;
+		margin-left:0 !important;
+    margin-right: -4px;
+}
+.question_options .radio>label:before {
+    float: right;
+}
+.radio>input[type=radio]+label:before {
+	padding-right:0 !important;
+    padding-left: 8px;
+	margin-right:0 !important;
+    margin-left: 8px;
+}
+.checkbox label, .radio label {
+	padding-left:0 !important;
+    padding-right: 20px;
+}
+.quiz_questions span {
+    float: left !important;
+    margin-left: 0 !important;
+    margin-right: 30px;
+}
+.quiz_questions strong {
+    margin-right:0 !important;
+    margin-left: 30px;
+}
+.dash-widget.woo_commission {
+    padding: 22px 0;
+}
+.course_front_progressbar>span {
+    right:auto !important;
+    left: 0;
+}
+.course_front_progressbar {
+    padding-right:0 !important;
+    padding-left: 45px;
+}
+.students_undertaking ul, .total_students span {
+    float: left;
+}
+.page #comments .comments_rss, .single #comments .comments_rss {
+    float: left;
+}
+.blogpost_style3 .blogpost_author img {
+    margin-right:0 !important;
+    margin-left: 10px;
+}
+.blogpost_style3 .blogpost_style3_date {
+    margin-left: 0 !important;
+    margin-right: 10px;
+}
+.blogpost_style3 .post-categories li {
+    float: right;
+    margin-right: 0 !important;
+    margin-left: 5px;
+}
+.blogpost_style3 .link {
+    margin-left: 0 !important;
+    margin-right: 10px;
+}
+.buddypress.widget #bp-login-widget-form #bp-login-widget-submit {
+    margin-right: 0 !important;
+    margin-left: 10px;
+}
+#headertop li img.avatar {
+    margin-right: 0 !important;
+}.single-course #buddypress #item-header #item-meta .course-star-rating {    float: right;}
+.heading a {
+    float: left;
+}
+table.profile-fields td.name {
+    padding-right:0 !important;
+    padding-left: 20px;
+}
+#bp-browse-button {
+    margin-right: 10px;
+}
+.buddypress.widget .item-avatar img.avatar {
+    margin: 0 0 15px 10px !important;
+}
+.single-course i.icon-plus-1 {
+    margin-left: inherit !important;
+}
+.course_reviews .review_breakup .rating_snapshot .modern-star-rating .fa {
+    float: right;
+}
+.amount {
+    font-size: 13px;
+}
+.icon-arrow-1-right:before {
+    content: "\e0f6" !important;
+}
+.icon-arrow-1-left:before {
+    content: "\e172" !important;
+}
+nav .sub-menu {
+    left: auto !important;
+    right: 0 !important;
+}
+#title .pagetitle {
+    padding-top: 30px !important;
+}
+nav .sub-menu {
+    z-index: 100;
+}
+.friendship-button.add:after, .friendship-button.remove:after {
+    padding: 0 2px 0 0;
+}
+.widget .woocart .total span {
+    margin-left: inherit !important;
+}
+.woocommerce-Price-amount {
+    margin-right: inherit !important;
+}
+div#tab-description h2, p {
+    /*margin-right: inherit !important;*/
+}
+.icon-clock {
+    float: right;
+}
+.inquiz_timer span.countdown {
+    font-size: 14px;
+}
+.page-template-start .unit_content span {
+    margin-top: inherit !important;
+}
+.mfp-close {
+    right:auto !important;
+    left: 0;
+}
+	.mfp-content {
+    text-align: right;
+}
+#prev_results a:after {
+    float: left;
+}
+.quiz_retake_form input[type=submit] {
+    float: left;
+}
+.mobile_icons>a {
+    float: right;
+}
+.course_details li i {
+	margin-right:0 !important;
+    margin-left: 10px;
+}
+.students_undertaking ul li {
+    margin-left:0 !important;
+    margin-right: 5px;
+}
+#item-admins .item-avatar {
+    margin: 0 20px !important;
+}
+.single-course .item-avatar img {
+    margin-top: 0px !important;
+}
+.instructor_course .item-avatar > img {
+     margin-left: 0px !important; 
+}
+ul.rating_breakup li:nth-child(5) span {
+    margin-right: 10px !important;
+}
+.course.directory #buddypress ul.item-list li .item-instructor img.avatar {
+    margin-right: 0px !important;
+    margin-left: 0px !important;
+}
+@media (max-width: 767px)
+{
+#buddypress ul.item-list li div.item-instructor .instructor_course .item-avatar {
+    float: none !important;
+}}
+#buddypress ul.item-list li img.avatar {
+    float: none;
+}
+.checkbox>input[type=checkbox]:checked+label:after {
+    position: absolute !important;
+    float: right !important;
+    transform: none !important;
+}
+#course-list li .item-meta .course-star-rating {
+    margin-right:0 !important;
+    margin-left: 5px;
+}
+.bp_filled_stars {
+    float: right;
+	left:auto !important;
+    right: 0;
+}
+.course_curriculum .course_lesson>td:last-child i {
+    margin-right: 5px !important;
+    margin-left: 0 !important;
+}
+#course_user_ajax_search_results #search_course_member:after {
+    left: 25px;
+    right: auto !important;
+}
+#course_user_ajax_search_results #search_course_member input {
+    padding-right: 0 !important;
+    padding-left: 45px;
+}
+select#buddydrive-filter {
+    padding-right: 0px !important;
+    padding-left: 30px !important;
+}
+div#buddydrive-main nav.buddydrive-toolbar #buddydrive-search-input {
+    float: left !important;
+}
+div#buddydrive-main #buddydrive-status div.buddydrive-feedback p:before {
+    margin-right: 0 !important;
+    margin-left: 10px;
+}
+ul.subsubsub>li {
+    float: right !important;
+}
+.tags li a {
+    padding-right: 2px;
+    padding-left: 0 !important;
+}
+.tags>ul>li:before, ul.tags>li:before {
+    float: right;
+}
+.prev_next_links .prev_next li a.prev span {
+	padding-right:0 !important;
+    padding-left: 45px;
+}
+.prev_next_links .prev_next li a.prev:before {
+    content: "\f054";
+	right:auto !important;
+    left: 15px;
+}
+.prev_next_links .prev_next li a.prev img {
+    float: right;
+}
+.prev_next_links .prev_next li a.prev {
+	left:auto !important;
+    right: 0;
+	transform: translateX(100%);
+	margin-left:0 !important;
+    margin-right: 40px;
+}
+.content p>ul, .content>ul {
+    margin-left:0 !important;
+    margin-right: 15px;
+}
+.content p>ol, .content>ol {
+    margin-left:0 !important;
+    margin-right: 15px;
+}
+.prev_next_links .prev_next li a.next {
+	right:auto !important;
+    left: 0;
+    transform: translateX(-100%);
+	margin-right:0 !important;
+    margin-left: 40px;
+}
+.prev_next_links .prev_next li a.next:before {
+    content: "\f053";
+	left:auto !important;
+    right: 15px;
+}
+.prev_next_links .prev_next li a.next span {
+	padding-left:0 !important;
+    padding-right: 45px;
+}
+.prev_next_links .prev_next li a.next img, .tags .page-links {
+    float: left;
+}
+}
+.create_course_content #course_components .vibe_vibe_course_curriculum .course_events>li .data_links, .create_course_content #course_components .vibe_vibe_course_curriculum .curriculum>li .data_links, .create_course_content #course_components .vibe_vibe_events .course_events>li .data_links, .create_course_content #course_components .vibe_vibe_events .curriculum>li .data_links, .create_course_content #course_curriculum .vibe_vibe_course_curriculum .course_events>li .data_links, .create_course_content #course_curriculum .vibe_vibe_course_curriculum .curriculum>li .data_links, .create_course_content #course_curriculum .vibe_vibe_events .course_events>li .data_links, .create_course_content #course_curriculum .vibe_vibe_events .curriculum>li .data_links, .create_course_content #events .vibe_vibe_course_curriculum .course_events>li .data_links, .create_course_content #events .vibe_vibe_course_curriculum .curriculum>li .data_links, .create_course_content #events .vibe_vibe_events .course_events>li .data_links, .create_course_content #events .vibe_vibe_events .curriculum>li .data_links, .edit_course_content #course_components .vibe_vibe_course_curriculum .course_events>li .data_links, .edit_course_content #course_components .vibe_vibe_course_curriculum .curriculum>li .data_links, .edit_course_content #course_components .vibe_vibe_events .course_events>li .data_links, .edit_course_content #course_components .vibe_vibe_events .curriculum>li .data_links, .edit_course_content #course_curriculum .vibe_vibe_course_curriculum .course_events>li .data_links, .edit_course_content #course_curriculum .vibe_vibe_course_curriculum .curriculum>li .data_links, .edit_course_content #course_curriculum .vibe_vibe_events .course_events>li .data_links, .edit_course_content #course_curriculum .vibe_vibe_events .curriculum>li .data_links, .edit_course_content #events .vibe_vibe_course_curriculum .course_events>li .data_links, .edit_course_content #events .vibe_vibe_course_curriculum .curriculum>li .data_links, .edit_course_content #events .vibe_vibe_events .course_events>li .data_links, .edit_course_content #events .vibe_vibe_events .curriculum>li .data_links {
+    float: left;
+}
+.create_course_content #course_components .vibe_vibe_course_curriculum .course_events>li .data_links li, .create_course_content #course_components .vibe_vibe_course_curriculum .curriculum>li .data_links li, .create_course_content #course_components .vibe_vibe_events .course_events>li .data_links li, .create_course_content #course_components .vibe_vibe_events .curriculum>li .data_links li, .create_course_content #course_curriculum .vibe_vibe_course_curriculum .course_events>li .data_links li, .create_course_content #course_curriculum .vibe_vibe_course_curriculum .curriculum>li .data_links li, .create_course_content #course_curriculum .vibe_vibe_events .course_events>li .data_links li, .create_course_content #course_curriculum .vibe_vibe_events .curriculum>li .data_links li, .create_course_content #events .vibe_vibe_course_curriculum .course_events>li .data_links li, .create_course_content #events .vibe_vibe_course_curriculum .curriculum>li .data_links li, .create_course_content #events .vibe_vibe_events .course_events>li .data_links li, .create_course_content #events .vibe_vibe_events .curriculum>li .data_links li, .edit_course_content #course_components .vibe_vibe_course_curriculum .course_events>li .data_links li, .edit_course_content #course_components .vibe_vibe_course_curriculum .curriculum>li .data_links li, .edit_course_content #course_components .vibe_vibe_events .course_events>li .data_links li, .edit_course_content #course_components .vibe_vibe_events .curriculum>li .data_links li, .edit_course_content #course_curriculum .vibe_vibe_course_curriculum .course_events>li .data_links li, .edit_course_content #course_curriculum .vibe_vibe_course_curriculum .curriculum>li .data_links li, .edit_course_content #course_curriculum .vibe_vibe_events .course_events>li .data_links li, .edit_course_content #course_curriculum .vibe_vibe_events .curriculum>li .data_links li, .edit_course_content #events .vibe_vibe_course_curriculum .course_events>li .data_links li, .edit_course_content #events .vibe_vibe_course_curriculum .curriculum>li .data_links li, .edit_course_content #events .vibe_vibe_events .course_events>li .data_links li, .edit_course_content #events .vibe_vibe_events .curriculum>li .data_links li {
+    float: right;
+}
+.create_course_content #course_components .vibe_vibe_course_curriculum .course_events>li .title i, .create_course_content #course_components .vibe_vibe_course_curriculum .course_events>li strong i, .create_course_content #course_components .vibe_vibe_course_curriculum .curriculum>li .title i, .create_course_content #course_components .vibe_vibe_course_curriculum .curriculum>li strong i, .create_course_content #course_components .vibe_vibe_events .course_events>li .title i, .create_course_content #course_components .vibe_vibe_events .course_events>li strong i, .create_course_content #course_components .vibe_vibe_events .curriculum>li .title i, .create_course_content #course_components .vibe_vibe_events .curriculum>li strong i, .create_course_content #course_curriculum .vibe_vibe_course_curriculum .course_events>li .title i, .create_course_content #course_curriculum .vibe_vibe_course_curriculum .course_events>li strong i, .create_course_content #course_curriculum .vibe_vibe_course_curriculum .curriculum>li .title i, .create_course_content #course_curriculum .vibe_vibe_course_curriculum .curriculum>li strong i, .create_course_content #course_curriculum .vibe_vibe_events .course_events>li .title i, .create_course_content #course_curriculum .vibe_vibe_events .course_events>li strong i, .create_course_content #course_curriculum .vibe_vibe_events .curriculum>li .title i, .create_course_content #course_curriculum .vibe_vibe_events .curriculum>li strong i, .create_course_content #events .vibe_vibe_course_curriculum .course_events>li .title i, .create_course_content #events .vibe_vibe_course_curriculum .course_events>li strong i, .create_course_content #events .vibe_vibe_course_curriculum .curriculum>li .title i, .create_course_content #events .vibe_vibe_course_curriculum .curriculum>li strong i, .create_course_content #events .vibe_vibe_events .course_events>li .title i, .create_course_content #events .vibe_vibe_events .course_events>li strong i, .create_course_content #events .vibe_vibe_events .curriculum>li .title i, .create_course_content #events .vibe_vibe_events .curriculum>li strong i, .edit_course_content #course_components .vibe_vibe_course_curriculum .course_events>li .title i, .edit_course_content #course_components .vibe_vibe_course_curriculum .course_events>li strong i, .edit_course_content #course_components .vibe_vibe_course_curriculum .curriculum>li .title i, .edit_course_content #course_components .vibe_vibe_course_curriculum .curriculum>li strong i, .edit_course_content #course_components .vibe_vibe_events .course_events>li .title i, .edit_course_content #course_components .vibe_vibe_events .course_events>li strong i, .edit_course_content #course_components .vibe_vibe_events .curriculum>li .title i, .edit_course_content #course_components .vibe_vibe_events .curriculum>li strong i, .edit_course_content #course_curriculum .vibe_vibe_course_curriculum .course_events>li .title i, .edit_course_content #course_curriculum .vibe_vibe_course_curriculum .course_events>li strong i, .edit_course_content #course_curriculum .vibe_vibe_course_curriculum .curriculum>li .title i, .edit_course_content #course_curriculum .vibe_vibe_course_curriculum .curriculum>li strong i, .edit_course_content #course_curriculum .vibe_vibe_events .course_events>li .title i, .edit_course_content #course_curriculum .vibe_vibe_events .course_events>li strong i, .edit_course_content #course_curriculum .vibe_vibe_events .curriculum>li .title i, .edit_course_content #course_curriculum .vibe_vibe_events .curriculum>li strong i, .edit_course_content #events .vibe_vibe_course_curriculum .course_events>li .title i, .edit_course_content #events .vibe_vibe_course_curriculum .course_events>li strong i, .edit_course_content #events .vibe_vibe_course_curriculum .curriculum>li .title i, .edit_course_content #events .vibe_vibe_course_curriculum .curriculum>li strong i, .edit_course_content #events .vibe_vibe_events .course_events>li .title i, .edit_course_content #events .vibe_vibe_events .course_events>li strong i, .edit_course_content #events .vibe_vibe_events .curriculum>li .title i, .edit_course_content #events .vibe_vibe_events .curriculum>li strong i {
+    float: right;
+    margin-right:0 !important;
+    margin-left: 15px;
+}
+.create_course_content #course_components .element_overlay .list-group .list-group-item.accordion_trigger h3>span:after, .create_course_content #course_curriculum .element_overlay .list-group .list-group-item.accordion_trigger h3>span:after, .create_course_content #events .element_overlay .list-group .list-group-item.accordion_trigger h3>span:after, .edit_course_content #course_components .element_overlay .list-group .list-group-item.accordion_trigger h3>span:after, .edit_course_content #course_curriculum .element_overlay .list-group .list-group-item.accordion_trigger h3>span:after, .edit_course_content #events .element_overlay .list-group .list-group-item.accordion_trigger h3>span:after {
+    	right:auto !important;
+	left: 15px;
+}
+.create_course_content #course_components .element_overlay .list-group.open .list-group-item.accordion_trigger h3>span:after, .create_course_content #course_curriculum .element_overlay .list-group.open .list-group-item.accordion_trigger h3>span:after, .create_course_content #events .element_overlay .list-group.open .list-group-item.accordion_trigger h3>span:after, .edit_course_content #course_components .element_overlay .list-group.open .list-group-item.accordion_trigger h3>span:after, .edit_course_content #course_curriculum .element_overlay .list-group.open .list-group-item.accordion_trigger h3>span:after, .edit_course_content #events .element_overlay .list-group.open .list-group-item.accordion_trigger h3>span:after {
+    	right:auto !important;
+	left: 15px;
+}
+.vibe_vibe_product h3 span+span {
+    margin-right: 0 !important;
+    margin-left: 10px;
+}
+.create_course_content #course_pricing .course_pricing>li .select2-container, .create_course_content #course_pricing .course_pricing>li input[type=text], .create_course_content #course_pricing .course_pricing>li select, .edit_course_content #course_pricing .course_pricing>li .select2-container, .edit_course_content #course_pricing .course_pricing>li input[type=text], .edit_course_content #course_pricing .course_pricing>li select {
+    float: left;
+}
+.woocommerce #respond input#submit.added:after, .woocommerce a.button.added:after, .woocommerce button.button.added:after, .woocommerce input.button.added:after {
+    margin-left: 0 !important;    
+    margin-right: .53em;
+}
+@media (max-width: 767px)
+{
+.blogpost .excerpt, .blogpost .excerpt.thumb {
+    margin-right: 0 !important;
+}}
+
+@media (max-width: 991px)
+{
+.blogpost .excerpt.thumb {
+    margin-right: 0 !important;
+}}
+.page #comments ol.commentlist li+ul.children, .single #comments ol.commentlist li+ul.children {
+    margin-left: 0 !important;
+    margin-right: 80px;
+}
+#create_course_templates_wrapper_close {
+    right:auto !important;
+    left: -15px;
+}
+#create_course_templates_wrapper .course_template_item span.delete_course_template {
+    right:auto !important;
+    left: 22px;
+}
+.vibe_vibe_course_badge .upload_button, .vibe_vibe_course_badge_title input.mid_box {
+    float: left;
+}
+.single-testimonials .testimonial-author img {
+    float: right;
+	margin-right: 0 !important;
+	margin-left: 30px;
+}
+div#buddydrive-main form.buddydrive-item-details #buddydrive-autocomplete {
+	margin-left:0 !important;
+    margin-right: 30%;
+}
+div#buddydrive-main form.buddydrive-item-details #buddydrive-object-selection .buddydrive-item {
+    margin: 0 0 .5em .5em;
+}
+div#buddydrive-main ul#buddydrive-manage-actions {
+    float: right !important;
+}
+div#buddydrive-main nav.buddydrive-toolbar #buddydrive-search-input {
+    margin-right:0 !important;
+    margin-left: 1em;
+}
+div#buddydrive-main ul#buddydrive-browser li .buddydrive-icon {
+    float: right !important;
+}
+div#buddydrive-main ul#buddydrive-browser li .buddydrive-content {
+    margin-left:0 !important;
+    margin-right: 105px;
+}
+div#buddydrive-main ul#buddydrive-browser li .buddydrive-content .buddydrive-title .buddydrive-name {
+    margin-right:0 !important;
+    margin-left: 25px;
+}
+div#buddydrive-main ul#buddydrive-browser span.icon-privacy {
+    right:auto !important;
+    left: 0;
+    margin-right:0 !important;
+    margin-left: 5px;
+}
+div#buddydrive-main ul#buddydrive-browser li .buddydrive-content .buddydrive-actions {
+    right:auto !important;
+    left: 0;
+    margin-right:0 !important;
+    margin-left: 5px;
+}
+.course_bulk_actions strong {
+    float: right;
+}
+.course_bulk_actions ul {
+    float: left;
+}
+.assignment_students li input[type=checkbox], .course_students li input[type=checkbox], .quiz_students li input[type=checkbox] {
+    float: right !important;
+    margin: 20px 0 0 10px;
+}
+.assignment_students li img, .course_students li img, .quiz_students li img {
+    margin-right:0 !important;
+}
+.assignment_students li>ul, .course_students li>ul, .quiz_students li>ul {
+    right: auto !important;
+    left: 0;
+}
+.course_grade li strong {
+    float: left;
+}
+
+
+
+
+
+
+
